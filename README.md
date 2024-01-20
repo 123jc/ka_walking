@@ -8,3 +8,8 @@ Walking around town is fun, because you get to see and experience so much more t
 
 Open to suggestions and improvements of any kind.
 
+The svg files are created and edited with inkscape (https://inkscape.org).
+The pdf files are exported from there.
+
+The project was inspired by the fine walking map of the Irish city of Limerick (https://www.limerick.ie/sites/default/files/media/documents/2019-10/Limerick%20City%20Walking%20Map.pdf, https://www.limerick.ie/discover/visiting/travel-guide/visitor-maps-guides/limerick-city-walking-map)
+
