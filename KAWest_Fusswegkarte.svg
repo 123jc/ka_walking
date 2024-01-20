@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname="WalkingWeststadt.svg"
+   sodipodi:docname="KAWest_Fusswegkarte.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.81177837"
-     inkscape:cx="539.55614"
+     inkscape:cx="540.17207"
      inkscape:cy="418.2176"
      inkscape:window-width="1440"
      inkscape:window-height="768"
@@ -54,8 +54,8 @@
        d="m -5.9014994,72.133096 c 11.7090772,25.248539 50.1386434,25.30875 66.6043854,4.95034 16.566862,-15.172835 41.396734,-20.503303 62.768404,-13.65486 31.88794,1.421269 64.29033,-6.002168 95.84446,-1.380278 13.15059,5.319684 37.26922,12.351417 16.76122,-12.376267 C 218.10245,43.11109 198.32695,48.21563 179.64335,47.549965 148.56032,48.880728 117.27424,46.59177 86.308095,49.02135 65.994562,54.567684 48.952599,75.634799 26.141907,68.979219 15.80939,67.119356 1.0511976,60.172325 -5.9014994,72.133096 Z"
        id="Kaiserallee"
        sodipodi:nodetypes="ccccccccc" /><path
-       style="fill:#49ea9d;fill-opacity:0.82781458;stroke:none;stroke-width:1;stroke-dasharray:none"
-       d="m -12.05783,103.42637 c 2.9771024,7.84687 -7.103369,87.31118 -0.388207,93.84967 12.16958734,11.84941 43.916491,-50.82852 56.332246,-44.14286 10.967266,6.01854 42.288394,7.15276 49.401079,17.68051 37.746842,24.15202 80.915282,29.02481 119.633652,51.28973 11.37524,4.45246 25.1753,8.41008 36.63575,2.39648 8.1011,-7.38421 2.45517,-49.58493 -2.92886,-56.53727 -14.10764,-19.04333 -40.86606,10.7286 -62.68224,5.44755 -13.35416,-3.29476 17.78015,-33.9776 9.71033,-43.79617 C 177.27704,123.95641 88.339627,111.72916 49.750937,101.28152 35.778779,97.498652 21.94752,96.770974 9.41347,86.294843 -8.9899166,83.761054 0.88797588,91.256232 -12.05783,103.42637 Z"
+       style="fill:#49ea9d;fill-opacity:0.827815;stroke:none;stroke-width:1;stroke-dasharray:none"
+       d="m -12.05783,103.42637 c 2.9771024,7.84687 -7.103369,87.31118 -0.388207,93.84967 12.16958734,11.84941 43.916491,-50.82852 56.332246,-44.14286 10.967266,6.01854 42.288394,7.15276 49.401079,17.68051 37.746842,24.15202 80.915282,29.02481 119.633652,51.28973 11.37524,4.45246 25.1753,8.41008 36.63575,2.39648 8.1011,-7.38421 2.45517,-49.58493 -2.92886,-56.53727 -14.10764,-19.04333 -40.86606,10.7286 -62.68224,5.44755 -9.11706,-19.59129 29.18772,-40.49621 9.3844,-48.03327 -44.08297,4.44625 -45.34508,4.93029 -105.771115,-15.29527 C 73.832203,105.48711 21.94752,96.770974 9.41347,86.294843 -8.9899166,83.761054 0.88797588,91.256232 -12.05783,103.42637 Z"
        id="Albgruenstreifen"
        sodipodi:nodetypes="cscccccccscc" /><path
        style="fill:#48ea9c;fill-opacity:0.82999998;stroke:none;stroke-width:0.68868;stroke-dasharray:none"
@@ -829,13 +829,13 @@
          xml:space="preserve"
          style="font-size:3.175px;fill:#4141dc;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="140.01196"
-         y="125.78133"
+         y="125.4554"
          id="text1-80"><tspan
            sodipodi:role="line"
            id="tspan1-46"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="140.01196"
-           y="125.78133">HÜBSCHSTRASSE</tspan></text><text
+           y="125.4554">HÜBSCHSTRASSE</tspan></text><text
          xml:space="preserve"
          style="font-size:3.175px;fill:#4141dc;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="188.4502"
