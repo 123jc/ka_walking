@@ -13,4 +13,4 @@ The pdf files are exported from there.
 
 The project was inspired by the fine walking map of the Irish city of Limerick (https://www.limerick.ie/sites/default/files/media/documents/2019-10/Limerick%20City%20Walking%20Map.pdf, https://www.limerick.ie/discover/visiting/travel-guide/visitor-maps-guides/limerick-city-walking-map)
 
-There is a small article about the project here: https://umverka.de/hefte/heft124/anstiftung_zum_fuszgang.html
+There is a very short article about the project here: https://umverka.de/hefte/heft124/anstiftung_zum_fuszgang.html
